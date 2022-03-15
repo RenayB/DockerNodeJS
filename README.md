@@ -1,8 +1,8 @@
-#Dockerizing a Node.js Web Application Example 
+# Dockerizing a Node.js Web Application Example 
 
 An example of how to get a Node.js application into a Docker container. 
 
-##How to Run
+## How to Run
 	1. If you don't have Docker,  install it first.  https://docs.docker.com/get-started/
 	2. Navigate to the project .
 	3. Build the docker image using the following command `docker build .`
